@@ -1,3 +1,4 @@
+```
 # ⚡ 06 - PowerShell
 
 ## Función: New-OnboardUser
