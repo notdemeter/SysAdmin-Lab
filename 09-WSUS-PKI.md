@@ -17,3 +17,7 @@
 - **Consola:** certsrv.msc
 
 La CA empresarial permite emitir certificados de confianza a todos los equipos del dominio para HTTPS, autenticación y cifrado de comunicaciones internas.
+
+## Capturas
+
+![WSUS y PKI instalados](images/WSUS-PKI.png)
