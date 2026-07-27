@@ -70,5 +70,10 @@ Todos los usuarios siguen el modelo AGDLP: Usuario → GG_Departamento → DL_De
 - **WSUS:** Servidor de actualizaciones instalado
 - **PKI:** Autoridad de certificación empresarial (novatech-CA)
 
+- ## Capturas del laboratorio
+
+![Inicio de sesión dominio](images/Login-Marta.png)
+![gpresult GPOs aplicadas](images/gpresult-GPO.png)
+
 ---
 *Laboratorio montado con fines educativos y de demostración profesional.*
