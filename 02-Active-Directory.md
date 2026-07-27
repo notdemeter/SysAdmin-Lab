@@ -45,3 +45,8 @@ Usuario → GG_Departamento → DL_Departamento_Modificar → Permisos NTFS
 | Carlos Garcia | carlos.garcia | Ventas | Hola1234 |
 | Pablo Lopez | pablo.lopez | Marketing | Hola1234 |
 | Admin IT | admin.it | IT | Hola1234 |
+
+## Capturas
+
+![OUs y departamentos](images/OU-Usuarios.png)
+![Grupos Globales y Domain Local](images/GG-DL.png)
