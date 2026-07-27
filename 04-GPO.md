@@ -24,3 +24,8 @@ Todas las GPOs de mapeo de unidades usan **User Configuration**, ya que la unida
 gpupdate /force     # Forzar actualización de GPOs
 gpresult /r         # Ver GPOs aplicadas
 gpresult /h         # Informe HTML
+
+## Capturas
+
+![GPOs enlazadas](images/GPO-Enlazadas.png)
+![Editor GPO - Unidad Z](images/GPO-UnidadZ.png)
