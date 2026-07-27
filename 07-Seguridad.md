@@ -38,3 +38,7 @@ Se creó una regla para bloquear el puerto 8080 como prueba de administración d
 - Contraseñas seguras obligatorias
 - Permisos NTFS aplicados con modelo AGDLP
 - Carpetas personales con herencia eliminada
+
+## Capturas
+
+![Firewall, Defender y Password Policy](images/Seguridad.png)
