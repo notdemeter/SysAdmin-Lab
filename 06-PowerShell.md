@@ -75,3 +75,8 @@ do {
         4 { Write-Host "Adios" }
     }
 } while ($op -ne 4)
+```
+## Capturas
+
+![Funciones PowerShell](images/Funciones-PowerShell.png)
+![Menú interactivo](images/Menu-Interactivo.png)
