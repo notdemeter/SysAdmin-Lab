@@ -43,3 +43,7 @@ Por eso SMB se deja en Full Control y la seguridad real se gestiona con NTFS.
 
 Cada usuario tiene una carpeta privada a la que solo él y los administradores pueden acceder.
 La herencia de permisos se elimina con `icacls /inheritance:r`.
+
+## Capturas
+
+![Unidades Z y P en Windows 11](images/Este-equipo-Z-P.png)
